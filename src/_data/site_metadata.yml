@@ -24,7 +24,7 @@ main_page:
       navbar: true
       slug: home
     - name: features
-      enabled: true
+      enabled: false
     - name: program
       label: Program
       navbar: true
@@ -34,7 +34,7 @@ main_page:
       navbar: true
       enabled: false
     - name: location
-      enabled: true
+      enabled: false
     - name: faq
       label: FAQ
       navbar: true
