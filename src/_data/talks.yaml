@@ -6,6 +6,7 @@
     alternative that offers the benefits of enforced boundaries without being
     cumbersome. This talk proposes a phased approach to refactoring toward this
     style using the packwerk gem.
+  youtube_id: qxKuvR08EUc
   speaker:
     name: Marc Reynolds
     bio: >-
@@ -23,6 +24,7 @@
     powerful in its own right, but with a wide spread of functions and some
     overlaps, it can be tough to see what’s what. Let’s explore just one avenue:
     Turbo Frames. Let’s see what it can _really_ do.
+  youtube_id: bru8S3PttLY
   speaker:
     name: Jon Sullivan
     bio: >-
@@ -48,6 +50,7 @@
     POROs (with their ride or dies, the Module). Come hear about the diversity
     of design patterns out in the wild so you too can confidently tell your
     coworkers “let’s just use a PORO for that”.
+  youtube_id: rMhxGAAJFbM
   speaker:
     name: Ifat Ribon
     bio: >-
@@ -71,9 +74,10 @@
     Distributing licenses and enforcing limitations for my "Ruby on Mac" CLI was
     a super interesting and fun problem to solve. It involved tools such as
     ruby-packer, shc, Apple's DeviceCheck API, and creating a .pkg installer.
-    I'll take you on that journey with me, with lessons learned and code samples. 
-    You'll learn tactics for thinking through similar problems, and for writing 
+    I'll take you on that journey with me, with lessons learned and code samples.
+    You'll learn tactics for thinking through similar problems, and for writing
     testable code.
+  youtube_id: taaVciVdNQg
   speaker:
     name: Moncef Belyamani
     bio: >-
@@ -100,6 +104,7 @@
     cache it? And how will this affect the overall performance? During this
     presentation, I’d like to show you some of the caching strategies we have in
     place and discuss how they’ve sped up the interactions within our site.
+  youtube_id: BuxrL8W_EaE
   speaker:
     name: Ridhwana Khan
     bio: >-
@@ -121,6 +126,7 @@
     importance of encapsulating your logic in whatever way you choose that makes
     the code readable and maintainable. Finally, how do you get your team on
     board?
+  youtube_id: tqG23aWuPa4
   speaker:
     name: Jon Evans
     bio: >-
@@ -137,6 +143,7 @@
     there has been a lot of wonderful scientific studies done on human
     happiness. This talk will cover a number of my favorite studies in this
     field, and how they can be applied to life and careers in tech.
+  youtube_id: gh2qo1qZxdc
   speaker:
     name: Dustin Haefele-Tschanz
     bio: >-
@@ -149,6 +156,7 @@
     a small bit of Ruby code. Sound easy? Here's the challenge: the snippets
     come from some of the weirdest parts of the Ruby language.  The questions
     aren't easy but get enough right to win a fabulous prize.
+  youtube_id: wdVNBVxLou8
   speaker:
     name: Drew Bragg
     bio: >-
@@ -172,6 +180,7 @@
     frontend and backend teams? What if you could do all of this with one team
     of Ruby engineers using only a Hypermedia RESTful design? Well you can and
     I'll show you how!
+  youtube_id: vVMZ6qhdxkg
   speaker:
     name: Brooke Kuhlmann
     bio: >-
@@ -187,6 +196,7 @@
     automated accessibility scanning, preview-driven development, and an
     accessibility-first form builder to make GitHub’s 15-year-old,
     1,400-controller Ruby on Rails monolith accessible.
+  youtube_id: 8tR3LJ2cEsE
   speaker:
     name: Joel Hawksley
     bio: Joel is a staff software engineer at GitHub, working on user interface architecture and strategy.
@@ -203,6 +213,7 @@
     we know what choice is right for us? Through my own journey I've developed a rubric
     for evaluating these scary choices — whether professional or personal — and I hope
     that sharing these lessons might be helpful for you.
+  youtube_id: fzKCobWzCxo
   speaker:
     name: Davy Stevenson
     bio: Davy is an independent engineering leader and long-time Ruby enthusiast
@@ -214,4 +225,3 @@
         icon: linkedin
       - link: https://ruby.social/@davy
         icon: mastodon
-
